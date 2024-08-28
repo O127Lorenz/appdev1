@@ -1,0 +1,63 @@
+Exploring Emerging Technologies
+Assignment #1
+"5 emerging technologies that are impacting both the education sector and the IT industry."
+
+1.Artificial Intelligence
+
+Purpose: The artificial intellegence is created to help people in many ways according on what particular aspect they want to use it. This is commonly used in order to help and assisted people in their works. This can be used to produce output that is needed immediately, and can be trusted because it is used in many works that can give a proper answer if the prompt is executed in a right way. There are still some errors sometimes that's why we also need to check the given answer if it is precise and accurate, but to assure us, people in IT departments are improving this artificial inteligence to achieve more smooth performance.
+
+usage: This are used mostly in school to help students in accomplishing their works, and makaing sure that they can extract information that is timely and can be used as a good reference for their activities. In IT department they can use this to ask the AI machine about some codes that they should do or add, this can be used to help them formulate their new ideas and help them debug code errors.
+
+Examples: 1. Student can use A.I to guide and assists him to finished the given work at a time.
+          2. I.T. Experts can use this to debug codes and make their work easier by getting information and suggestions on how to execute or build their codes.
+          3.People can easily comply to the works and needed information as soon as possible.
+
+
+2.Virtual Reality
+
+Purpose: This technology is one of the most coolest and game changing device. this was commonly use while playing games and sometimes watching movies, but this device is so futuristic that's why they use this as a simulators to many life changing skills that requires haed training like in pilots. because of this technolgy, the accesibility is more easy, and they can practice life professional skills withlest risk.
+
+usage: This can be use by schools to cater their students in prforming life long learning skills. In IT this can be used to make their work more enjoyfull and interesting.
+
+Examples : 1.A pilot students can use this virtual reality in order to practice plane maneuver in a safe way.
+           2.IT people can use this device in their free time and can use this device to help them in their works.
+
+
+3.Thumb prints Facial Recognition embbed technology device
+
+Purpose: This can be used to properly track and restrict the use and access of a thing to a non-owner person to the said device, this was use most commonly for security and privacy.
+
+Usage: This can be used by students in order to maximize their information privacy and protect their personal information againts opportunistic peoples. IT persons can use this in the field of their works, in order to check if the Information of the organization is in the safe hands and cannot be easily accessed by the others. 
+
+Examples: 1. Student can use this advancement not only to the phone device but also to other gadgets.
+          2. In I.T. this can be used properly to log-in to work by recognition and this can be so useful to track your employees and asses them to their works.
+
+
+4.Robotics
+
+Purpose: This Technology shows how the machine prototype can run, this was made up of cheap parts that are adjustable, that's why you can re assemble it an used it the other time.
+
+Usage: Students can used this to build and develop working products, by using their knowledge in robotics. This will help them turn their proposal into a working pieces. IT industry can use this to replicate the bluprint of their proposed product.
+
+
+Examples: 1. Student can use this to enhance their buliding skills and mind coordination, and to accomplished a well established project.
+          2. In I.T. this can be used to show their hand to hand skills, and they can keep the prototype and replace it after the robot is demonstrate.
+
+
+5.3D Printing
+
+Purpose: This device was one of the newest and handy equipment. By the use of 3D printer people can customize the size color shapes, designs and, ETC. This equipment was futuristic and can be possibly used for 3D modelling in order to check the size and functional of the product.
+
+Usage : Students can use this device to become more creative in their works, also this can help them to be the pioneers of using this new high-tech device. In IT organization, this one will most probably contributed to the hardware parts 
+
+
+Examples: 1. Student can use this to create a prototype version of his project and promote this 3D printing use.
+          2. In I.T. this can be used to present the product most likely the hardware parts. This can be also use for the ergonomics by testing of 3D printer in order           to produce product item customized support.
+
+
+
+rference link : https://www.teachthought.com/the-future-of-learning/emerging-education-technology/
+
+          
+
+
