@@ -7,27 +7,28 @@ function App() {
 
 
   return (
-    <div>
-    <h1>Counters that update separately</h1>
-    <MyButton />
-    <MyButton />
-  </div>
+   <MyButton/>
   )
 
 };
 function MyButton() {
-  const [count, setCount] = useState(0);
-
   function handleClick() {
-    setCount(count + 1);
+    alert('You clicked me!');
   }
 
   return (
     <button onClick={handleClick}>
-      Clicked {count} times
+      Click me
     </button>
   );
 }
+
+  
+
+
+  
+
+
 
 
 export default App
