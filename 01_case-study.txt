@@ -1,5 +1,4 @@
 
-
 As a Manager: How would you handle the situation when a key team member faces a personal issue that affects the project timeline? What steps would you take to ensure the team stays on track, and how would you communicate with both the client and your team?
 
 - As a manager, you need to consider the employees that you handle and have empathy for them because what happened to him is really bad and you need to put some considerations for him. After that, you should assess the unfinished task that he left and get some help from the teams in your company that don't have much work. Also report it to the R&D department (or client) about the situation as soon as possible in order to discuss potential adjustments to the timeline or scope. Lastly, the manager needs to come up with new project management plans in order to quickly identify critical path tasks that might need additional support in such situations.
