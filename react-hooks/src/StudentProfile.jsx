@@ -4,7 +4,7 @@ const StudentContext = createContext();
 
 const StudentProvider = ({ children }) => {
   const student = {
-    name: 'Aerrol Kyle Santos',
+    name: 'Lorenz Genesis M. Reyes',
     age: 20,
     major: 'Bachelor of Science in Information System'
   };
